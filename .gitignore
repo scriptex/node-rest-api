@@ -20,5 +20,8 @@ Thumbs.db
 # Uploads directory
 uploads
 
+# Build directory
+dist
+
 # Environment variables
 .env
