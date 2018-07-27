@@ -33,5 +33,6 @@
   "devDependencies": {
     "ts-node": "^7.0.0",
     "typescript": "^2.9.2"
-  }
+  },
+  "private": true
 }
