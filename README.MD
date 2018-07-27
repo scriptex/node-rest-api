@@ -1,5 +1,7 @@
 # Shop REST API using NodeJS, Express and MongoDB
 
+[![Build Status](https://travis-ci.org/scriptex/node-rest-api.svg?branch=master)](https://travis-ci.org/scriptex/node-rest-api)
+
 Create a `.env` file using the `.env.example` file and add your [Mongo Atlas](https://www.mongodb.com/cloud/atlas) admin password:
 
 ```sh
