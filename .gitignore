@@ -22,4 +22,3 @@ uploads
 
 # Environment variables
 .env
-nodemon.json
