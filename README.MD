@@ -2,6 +2,17 @@
 
 This is a Typescript port of the awesome REST API tutorial which can be found here: https://github.com/academind/node-restful-api-tutorial/tree/13-controllers/.
 
+-----
+
+**This is still a work in progress.**
+
+TODO:
+1. Extensive types annotation
+2. Interfaces implementation
+3. Tests
+
+-----
+
 [![Build Status](https://travis-ci.org/scriptex/node-rest-api.svg?branch=master)](https://travis-ci.org/scriptex/node-rest-api) [![Greenkeeper badge](https://badges.greenkeeper.io/scriptex/node-rest-api.svg)](https://greenkeeper.io/)
 
 Create a `.env` file using the `.env.example` file and add your [Mongo Atlas](https://www.mongodb.com/cloud/atlas) admin password:
