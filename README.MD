@@ -20,7 +20,7 @@ Create a `.env` file using the `.env.example` file and add your [Mongo Atlas](ht
 ```sh
 ATLAS_PWD=<YOUR_PASSWORD_HERE>
 JWT_KEY=secret
-ROOT=http://localhost:3000
+ROOT=http://localhost
 PORT=3000
 ```
 
