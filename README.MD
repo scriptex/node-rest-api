@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.org/scriptex/node-rest-api.svg?branch=master)](https://travis-ci.org/scriptex/node-rest-api)
 [![Greenkeeper badge](https://badges.greenkeeper.io/scriptex/node-rest-api.svg)](https://greenkeeper.io/)
+[![Analytics](https://ga-beacon.appspot.com/UA-83446952-1/github.com/scriptex/node-rest-api/README.md)](https://github.com/scriptex/node-rest-api/)
 
 # Shop REST API using NodeJS, Express and MongoDB
 
