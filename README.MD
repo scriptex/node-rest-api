@@ -8,6 +8,8 @@ This is a Typescript port of the awesome REST API tutorial which can be found he
 
 -----
 
+🛠 Status: In Development
+
 **This is still a work in progress.**
 
 TODO:
