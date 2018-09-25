@@ -13,18 +13,12 @@ import userRoutes from './api/routes/user';
 import orderRoutes from './api/routes/orders';
 import productRoutes from './api/routes/products';
 
-import { PASSWORD } from './settings';
+import { ATLAS_URL } from './settings';
 
 /**
  * Create the applicatiom
  */
 const app = express();
-
-/**
- * Construct the path to the database
- */
-// prettier-ignore
-const mongoUrl = `mongodb+srv://scriptex:${PASSWORD}@node-rest-api-example-agqm6.mongodb.net/test`;
 
 interface Error {
 	status?: number;
@@ -34,7 +28,7 @@ interface Error {
  * Connect to the database
  */
 mongoose.connect(
-	mongoUrl,
+	ATLAS_URL,
 	{
 		useNewUrlParser: true
 	}
