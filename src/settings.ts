@@ -7,4 +7,4 @@ dotenv.config();
 export const ROOT = process.env.ROOT;
 export const PORT = process.env.PORT;
 export const JWT_KEY = process.env.JWT_KEY;
-export const PASSWORD = process.env.ATLAS_PWD;
+export const ATLAS_URL = process.env.ATLAS_URL;
