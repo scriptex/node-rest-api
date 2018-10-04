@@ -53,12 +53,11 @@
     "@types/events" "*"
     "@types/node" "*"
 
-"@types/mongodb@3.1.9":
-  version "3.1.9"
-  resolved "https://registry.yarnpkg.com/@types/mongodb/-/mongodb-3.1.9.tgz#aec8b3180cc32520fee34fa6b7fa1a6f9348c8cf"
+"@types/mongodb@3.1.10":
+  version "3.1.10"
+  resolved "https://registry.yarnpkg.com/@types/mongodb/-/mongodb-3.1.10.tgz#c97ecc061c276e87a5b819b992cd8ab2afb54d77"
   dependencies:
     "@types/bson" "*"
-    "@types/events" "*"
     "@types/node" "*"
 
 "@types/mongoose@5.2.18":
@@ -72,9 +71,9 @@
   version "10.10.1"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-10.10.1.tgz#d5c96ca246a418404914d180b7fdd625ad18eca6"
 
-"@types/node@10.11.3":
-  version "10.11.3"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-10.11.3.tgz#c055536ac8a5e871701aa01914be5731539d01ee"
+"@types/node@10.11.4":
+  version "10.11.4"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-10.11.4.tgz#e8bd933c3f78795d580ae41d86590bfc1f4f389d"
 
 "@types/range-parser@*":
   version "1.2.2"
