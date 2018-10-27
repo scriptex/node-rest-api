@@ -53,9 +53,9 @@
     "@types/events" "*"
     "@types/node" "*"
 
-"@types/mongodb@3.1.12":
-  version "3.1.12"
-  resolved "https://registry.yarnpkg.com/@types/mongodb/-/mongodb-3.1.12.tgz#673cd6d8f494cf03860f15525c653302e109e0f9"
+"@types/mongodb@3.1.13":
+  version "3.1.13"
+  resolved "https://registry.yarnpkg.com/@types/mongodb/-/mongodb-3.1.13.tgz#413666af2172ee4122ed7608e0a13be0f7ef7b47"
   dependencies:
     "@types/bson" "*"
     "@types/node" "*"
