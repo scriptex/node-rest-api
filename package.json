@@ -21,7 +21,7 @@
     "@types/mongodb": "3.1.17",
     "@types/mongoose": "5.3.5",
     "@types/node": "10.12.18",
-    "bcrypt": "3.0.2",
+    "bcrypt": "3.0.3",
     "body-parser": "1.18.3",
     "dotenv": "6.2.0",
     "express": "4.16.4",
