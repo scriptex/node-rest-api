@@ -17,7 +17,7 @@
   "author": "Atanas Atanasov <scriptex.bg@gmail.com> (https://atanas.info)",
   "license": "MIT",
   "dependencies": {
-    "@types/express": "4.16.0",
+    "@types/express": "4.16.1",
     "@types/mongodb": "3.1.19",
     "@types/mongoose": "5.3.8",
     "@types/node": "10.12.18",
