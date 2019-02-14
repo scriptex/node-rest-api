@@ -19,14 +19,14 @@
   "dependencies": {
     "@types/express": "4.16.1",
     "@types/mongodb": "3.1.19",
-    "@types/mongoose": "5.3.15",
+    "@types/mongoose": "5.3.16",
     "@types/node": "10.12.21",
     "bcrypt": "3.0.4",
     "body-parser": "1.18.3",
     "dotenv": "6.2.0",
     "express": "4.16.4",
     "jsonwebtoken": "8.4.0",
-    "mongoose": "5.4.11",
+    "mongoose": "5.4.12",
     "morgan": "1.9.1",
     "multer": "1.4.1"
   },
