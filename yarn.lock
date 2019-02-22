@@ -69,10 +69,10 @@
     "@types/bson" "*"
     "@types/node" "*"
 
-"@types/mongoose@5.3.18":
-  version "5.3.18"
-  resolved "https://registry.yarnpkg.com/@types/mongoose/-/mongoose-5.3.18.tgz#1aad7cd6dbd719b7df75124ed670ed1fc814824c"
-  integrity sha512-1kR2A7Uf5iA3HehtzcXqVmr/zn1DFlwkmMcP2mTPkAlXNjZwa+F+2wdEfFOilLHEQkPHQ2dcfmYuBjBDA8YQkQ==
+"@types/mongoose@5.3.19":
+  version "5.3.19"
+  resolved "https://registry.yarnpkg.com/@types/mongoose/-/mongoose-5.3.19.tgz#3ab3a7b2c7339023f0a8bc95da2b76dabbdf0b81"
+  integrity sha512-CKEDkcGBIXmvPNq/0NCbckVR2xndxpCk8CQHb0Dh1UreWSr6HuegT2WuxllNJZm5lXl2XxWBzCW0kwPtLKmtbQ==
   dependencies:
     "@types/mongodb" "*"
     "@types/node" "*"
