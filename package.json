@@ -23,7 +23,7 @@
     "@types/node": "10.14.1",
     "bcrypt": "3.0.4",
     "body-parser": "1.18.3",
-    "dotenv": "6.2.0",
+    "dotenv": "7.0.0",
     "express": "4.16.4",
     "jsonwebtoken": "8.5.0",
     "mongoose": "5.4.19",
