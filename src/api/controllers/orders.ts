@@ -14,12 +14,12 @@ import Order from '../models/order';
 import Product from '../models/product';
 import { ROOT, PORT } from '../../settings';
 
-const url = `${ROOT}:${PORT}/orders/`;
+const url: string = `${ROOT}:${PORT}/orders/`;
 
 /**
  * Get all orders
  */
-export const all = (_, res) => {
+export const all = (_, res): void => {
 	Order.find()
 		.select('product quantity _id')
 		.populate('product', 'name')

@@ -4,22 +4,22 @@
 import * as multer from 'multer';
 import * as express from 'express';
 
-const router = express.Router();
-
 /**
  * Internal dependencies
  */
 import checkAuth from '../middleware/check-auth';
 import { all, create, get, update, remove } from '../controllers/products';
 
+const router: express.Router = express.Router();
+
 /**
  * Setup file upload
  */
-const storage = multer.diskStorage({
-	destination(req, file, cb) {
+const storage: multer.StorageEngine = multer.diskStorage({
+	destination(req: express.Request, file: Express.Multer.File, cb: (error: Error, destination: string) => void) {
 		cb(null, './uploads/');
 	},
-	filename(req, file, cb) {
+	filename(req: express.Request, file: Express.Multer.File, cb: (error: Error, filename: string) => void) {
 		cb(null, new Date().toISOString() + file.originalname);
 	}
 });
@@ -28,7 +28,11 @@ const storage = multer.diskStorage({
  * Setup file upload filters
  * Basically accept only JPG and PNG files
  */
-const fileFilter = (req, file, cb) => {
+const fileFilter = (
+	req: express.Request,
+	file: Express.Multer.File,
+	cb: (error: Error, save: boolean) => void
+): void => {
 	if (file.mimetype === 'image/jpeg' || file.mimetype === 'image/png') {
 		cb(null, true);
 	} else {
@@ -39,7 +43,7 @@ const fileFilter = (req, file, cb) => {
 /**
  * Create the file uploader
  */
-const upload = multer({
+const upload: multer.Instance = multer({
 	storage,
 	fileFilter,
 	limits: {

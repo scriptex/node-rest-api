@@ -3,13 +3,13 @@
  */
 import * as express from 'express';
 
-const router = express.Router();
-
 /**
  * Internal dependencies
  */
 import checkAuth from '../middleware/check-auth';
 import { all, create, get, remove } from '../controllers/orders';
+
+const router: express.Router = express.Router();
 
 /**
  * Get all orders

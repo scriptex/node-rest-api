@@ -3,13 +3,13 @@
  */
 import * as express from 'express';
 
-const router = express.Router();
-
 /**
  * Internal dependencies
  */
 import checkAuth from '../middleware/check-auth';
 import { login, signUp, remove } from '../controllers/user';
+
+const router: express.Router = express.Router();
 
 /**
  * Log the user in

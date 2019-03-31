@@ -6,12 +6,12 @@ import * as mongoose from 'mongoose';
 /**
  * Email regex
  */
-const emailRe = /[a-z0-9!#$%&'*+/=?^_`{|}~-]+(?:\.[a-z0-9!#$%&'*+/=?^_`{|}~-]+)*@(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])?/;
+const emailRe: RegExp = /[a-z0-9!#$%&'*+/=?^_`{|}~-]+(?:\.[a-z0-9!#$%&'*+/=?^_`{|}~-]+)*@(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])?/;
 
 /**
  * Create the user schema
  */
-const user = new mongoose.Schema({
+const user: mongoose.Schema = new mongoose.Schema({
 	_id: mongoose.Schema.Types.ObjectId,
 	email: {
 		type: String,

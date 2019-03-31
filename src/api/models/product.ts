@@ -6,7 +6,7 @@ import * as mongoose from 'mongoose';
 /**
  * Create the product schema
  */
-const product = new mongoose.Schema({
+const product: mongoose.Schema = new mongoose.Schema({
 	_id: mongoose.Schema.Types.ObjectId,
 	name: {
 		type: String,
