@@ -69,10 +69,10 @@
     "@types/bson" "*"
     "@types/node" "*"
 
-"@types/mongoose@5.3.24":
-  version "5.3.24"
-  resolved "https://registry.yarnpkg.com/@types/mongoose/-/mongoose-5.3.24.tgz#257f8eaf9dc7207497f326614294101b58c3ae19"
-  integrity sha512-Txa5C/veUJJG2o1sRbl8z1M7GhPjJz6J3JJQV76eYN0PyI9F2NO3gbVUj059ND5nlbvQjRhXuFLaqN6NH8nMNQ==
+"@types/mongoose@5.3.25":
+  version "5.3.25"
+  resolved "https://registry.yarnpkg.com/@types/mongoose/-/mongoose-5.3.25.tgz#bb8cca7a8393277d787ddf35f39e132c80474dc9"
+  integrity sha512-HhxLHxUD56N3LjpbpQ6SmaRFDx33RvxRNJwD303LN+ebmCXbZwqpR0pERE2SSjmhu+UvPiJDTH5Bm+YC1qlyNw==
   dependencies:
     "@types/mongodb" "*"
     "@types/node" "*"
@@ -214,10 +214,10 @@ brace-expansion@^1.1.7:
     balanced-match "^1.0.0"
     concat-map "0.0.1"
 
-bson@^1.1.0, bson@~1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/bson/-/bson-1.1.0.tgz#bee57d1fb6a87713471af4e32bcae36de814b5b0"
-  integrity sha512-9Aeai9TacfNtWXOYarkFJRW2CWo+dRon+fuLZYJmvLV3+MiUp0bEI6IAZfXEIg7/Pl/7IWlLaDnhzTsD81etQA==
+bson@^1.1.1, bson@~1.1.1:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/bson/-/bson-1.1.1.tgz#4330f5e99104c4e751e7351859e2d408279f2f13"
+  integrity sha512-jCGVYLoYMHDkOsbwJZBCqwMHyH4c+wzgI9hG7Z6SZJRXWr+x58pdIbm2i9a/jFGCkRJqRUr8eoI7lDWa0hTkxg==
 
 buffer-equal-constant-time@1.0.1:
   version "1.0.1"
@@ -718,23 +718,23 @@ mkdirp@^0.5.0, mkdirp@^0.5.1:
   dependencies:
     minimist "0.0.8"
 
-mongodb-core@3.1.11:
-  version "3.1.11"
-  resolved "https://registry.yarnpkg.com/mongodb-core/-/mongodb-core-3.1.11.tgz#b253038dbb4d7329f3d1c2ee5400bb0c9221fde5"
-  integrity sha512-rD2US2s5qk/ckbiiGFHeu+yKYDXdJ1G87F6CG3YdaZpzdOm5zpoAZd/EKbPmFO6cQZ+XVXBXBJ660sSI0gc6qg==
+mongodb-core@3.2.2:
+  version "3.2.2"
+  resolved "https://registry.yarnpkg.com/mongodb-core/-/mongodb-core-3.2.2.tgz#d1c084b34c102a98b4734087800115e639d907c5"
+  integrity sha512-YRgC39MuzKL0uoGoRdTmV1e9m47NbMnYmuEx4IOkgWAGXPSEzRY7cwb3N0XMmrDMnD9vp7MysNyAriIIeGgIQg==
   dependencies:
-    bson "^1.1.0"
+    bson "^1.1.1"
     require_optional "^1.0.1"
     safe-buffer "^5.1.2"
   optionalDependencies:
     saslprep "^1.0.0"
 
-mongodb@3.1.13:
-  version "3.1.13"
-  resolved "https://registry.yarnpkg.com/mongodb/-/mongodb-3.1.13.tgz#f8cdcbb36ad7a08b570bd1271c8525753f75f9f4"
-  integrity sha512-sz2dhvBZQWf3LRNDhbd30KHVzdjZx9IKC0L+kSZ/gzYquCF5zPOgGqRz6sSCqYZtKP2ekB4nfLxhGtzGHnIKxA==
+mongodb@3.2.2:
+  version "3.2.2"
+  resolved "https://registry.yarnpkg.com/mongodb/-/mongodb-3.2.2.tgz#49b592be3cd50097f78e0964488d18c2e189de20"
+  integrity sha512-xQ6apOOV+w7VFApdaJpWhYhzartpjIDFQjG0AwgJkLh7dBs7PTsq4A3Bia2QWpDohmAzTBIdQVLMqqLy0mwt3Q==
   dependencies:
-    mongodb-core "3.1.11"
+    mongodb-core "3.2.2"
     safe-buffer "^5.1.2"
 
 mongoose-legacy-pluralize@1.0.2:
@@ -742,22 +742,23 @@ mongoose-legacy-pluralize@1.0.2:
   resolved "https://registry.yarnpkg.com/mongoose-legacy-pluralize/-/mongoose-legacy-pluralize-1.0.2.tgz#3ba9f91fa507b5186d399fb40854bff18fb563e4"
   integrity sha512-Yo/7qQU4/EyIS8YDFSeenIvXxZN+ld7YdV9LqFVQJzTLye8unujAWPZ4NWKfFA+RNjh+wvTWKY9Z3E5XM6ZZiQ==
 
-mongoose@5.4.22:
-  version "5.4.22"
-  resolved "https://registry.yarnpkg.com/mongoose/-/mongoose-5.4.22.tgz#45000ea9aefa687dce1dc087db71b5084634d119"
-  integrity sha512-rbtmFmXe5YJfBrVfOpSW2xeSAKFtnJ5RLQjl4ULzT1icmY/SUHtJ5b+mW4SMCEk7whm/w+2oHO9qMBr8UI1xIw==
+mongoose@5.5.0:
+  version "5.5.0"
+  resolved "https://registry.yarnpkg.com/mongoose/-/mongoose-5.5.0.tgz#e1bf07cf9953840aaaafb25df163bc12ed70365c"
+  integrity sha512-GZdhdbTXTgikInIgtxR7ODcF3+MoJTumTsKYinX3zxJcQgMVr+Y0jBuFoLJ9YtVdF2nq1ukLnhS6RHfta1ptgQ==
   dependencies:
     async "2.6.1"
-    bson "~1.1.0"
+    bson "~1.1.1"
     kareem "2.3.0"
-    mongodb "3.1.13"
-    mongodb-core "3.1.11"
+    mongodb "3.2.2"
+    mongodb-core "3.2.2"
     mongoose-legacy-pluralize "1.0.2"
     mpath "0.5.1"
     mquery "3.2.0"
     ms "2.1.1"
     regexp-clone "0.0.1"
     safe-buffer "5.1.2"
+    sift "7.0.1"
     sliced "1.0.1"
 
 morgan@1.9.1:
@@ -1105,6 +1106,11 @@ setprototypeof@1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/setprototypeof/-/setprototypeof-1.1.0.tgz#d0bd85536887b6fe7c0d818cb962d9d91c54e656"
   integrity sha512-BvE/TwpZX4FXExxOxZyRGQQv651MSwmWKZGqvmPcRIjDqWub67kTKuIMx43cZZrS/cBBzwBcNDWoFxt2XEFIpQ==
+
+sift@7.0.1:
+  version "7.0.1"
+  resolved "https://registry.yarnpkg.com/sift/-/sift-7.0.1.tgz#47d62c50b159d316f1372f8b53f9c10cd21a4b08"
+  integrity sha512-oqD7PMJ+uO6jV9EQCl0LrRw1OwsiPsiFQR5AR30heR+4Dl7jBBbDLnNvWiak20tzZlSE1H7RB30SX/1j/YYT7g==
 
 signal-exit@^3.0.0:
   version "3.0.2"
