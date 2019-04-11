@@ -61,10 +61,10 @@
     "@types/events" "*"
     "@types/node" "*"
 
-"@types/mongodb@3.1.22":
-  version "3.1.22"
-  resolved "https://registry.yarnpkg.com/@types/mongodb/-/mongodb-3.1.22.tgz#66f96c7acbf7135ce6295a8d6c26f1d97388a84b"
-  integrity sha512-hvNR0txBlJJAy1eZOeIDshW4dnQaC694COou4eHHaMdIcteCfoCQATD7sYNlXxNxfTc1iIbHUi7A8CAhQe08uA==
+"@types/mongodb@3.1.23":
+  version "3.1.23"
+  resolved "https://registry.yarnpkg.com/@types/mongodb/-/mongodb-3.1.23.tgz#9aaa105f448427036cb6cd3aa042ab77b2ab8a7a"
+  integrity sha512-TNwS1HPh1nnaYorcQoWi+bH5kJ1Q/WqCjiD9XkU3oBeCZFYXXPafVUuFmoYFbzQ061ojhtsndRLzwNklRhU+4w==
   dependencies:
     "@types/bson" "*"
     "@types/node" "*"
