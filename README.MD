@@ -14,9 +14,7 @@ This is a Typescript port of the awesome REST API tutorial which can be found he
 **This is still a work in progress.**
 
 TODO:
-1. Extensive types annotation
-2. Interfaces implementation
-3. Tests
+1. Tests
 
 -----
 
