@@ -32,7 +32,7 @@
 		"multer": "1.4.1"
 	},
 	"devDependencies": {
-		"ts-node": "8.2.0",
+		"ts-node": "8.3.0",
 		"typescript": "3.5.2"
 	},
 	"private": true
