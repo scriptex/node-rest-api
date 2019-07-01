@@ -19,7 +19,7 @@
 	"dependencies": {
 		"@types/express": "4.17.0",
 		"@types/mongodb": "3.1.28",
-		"@types/mongoose": "5.5.6",
+		"@types/mongoose": "5.5.7",
 		"@types/multer": "1.3.7",
 		"@types/node": "10.14.10",
 		"bcrypt": "3.0.6",
