@@ -30,3 +30,5 @@ patch:
         patched: '2019-07-05T03:51:49.560Z'
     - mongoose > async > lodash:
         patched: '2019-07-05T03:51:49.560Z'
+    - snyk > snyk-nuget-plugin > dotnet-deps-parser > lodash:
+        patched: '2019-08-15T09:20:41.994Z'
