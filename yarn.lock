@@ -126,10 +126,10 @@
     "@types/events" "*"
     "@types/node" "*"
 
-"@types/mongodb@3.2.2":
-  version "3.2.2"
-  resolved "https://registry.yarnpkg.com/@types/mongodb/-/mongodb-3.2.2.tgz#5c40510d8c0407423f1a29f820dd99f5573066fd"
-  integrity sha512-0XBUoXM2yQxagOSIWCczsGmSpZomqWWgM/mH7Xgvr6hkVONflaEuC+OJwIgZm4A5wD6s56n9Re+oXK5Wy3mXMg==
+"@types/mongodb@3.2.3":
+  version "3.2.3"
+  resolved "https://registry.yarnpkg.com/@types/mongodb/-/mongodb-3.2.3.tgz#c26bbabc7930f8b352c311ce6f214882c815a472"
+  integrity sha512-46ai7KWL5/Ls/x+gzU908hhpkXzB2SlrAh/07wHkMkGUdpRwYjbjxb8/Yq2WEZ33Sn5s/o9BCO+OkBTCS6Cfmw==
   dependencies:
     "@types/bson" "*"
     "@types/node" "*"
