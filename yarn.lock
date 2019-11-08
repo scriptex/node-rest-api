@@ -162,10 +162,10 @@
     "@types/bson" "*"
     "@types/node" "*"
 
-"@types/mongodb@3.3.8":
-  version "3.3.8"
-  resolved "https://registry.yarnpkg.com/@types/mongodb/-/mongodb-3.3.8.tgz#a6023ff343a90478c0e22b2b5d35e56964c3ba60"
-  integrity sha512-hsLcKRBFVeam4FyJOU6bwklvsNHzmUBI5SIxQ2meZu+RZgTDzrv+W19YAHgDIuiTn6UqHrVolweLMk0RpKEbxg==
+"@types/mongodb@3.3.9":
+  version "3.3.9"
+  resolved "https://registry.yarnpkg.com/@types/mongodb/-/mongodb-3.3.9.tgz#46a5f23a49bb8e8e88de95772ff485dcdc6ffe11"
+  integrity sha512-jvB6SfyHxs47R6vvywV0pWNU7191t4GwnypqMLMZKmdG21KxHT6t4wdfpzIhbfz8bfKoXg+qJuv3ALCNOC/7Bg==
   dependencies:
     "@types/bson" "*"
     "@types/node" "*"
