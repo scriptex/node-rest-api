@@ -7,7 +7,7 @@
     "start": "ts-node ./src/server.ts",
     "build": "tsc",
     "snyk-protect": "snyk protect",
-    "prepublish": "npm run snyk-protect"
+    "prepublish": "yarn run snyk-protect"
   },
   "keywords": [
     "NodeJS",
@@ -32,7 +32,7 @@
     "mongoose": "5.8.0",
     "morgan": "1.9.1",
     "multer": "1.4.2",
-    "snyk": "1.256.0"
+    "snyk": "^1.258.2"
   },
   "devDependencies": {
     "ts-node": "8.5.4",
