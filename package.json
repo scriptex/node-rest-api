@@ -35,7 +35,7 @@
     "snyk": "1.278.1"
   },
   "devDependencies": {
-    "ts-node": "8.6.1",
+    "ts-node": "8.6.2",
     "typescript": "3.7.4"
   },
   "private": true,
