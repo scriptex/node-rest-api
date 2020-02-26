@@ -32,7 +32,7 @@
     "mongoose": "5.9.2",
     "morgan": "1.9.1",
     "multer": "1.4.2",
-    "snyk": "1.296.1"
+    "snyk": "1.297.1"
   },
   "devDependencies": {
     "ts-node": "8.6.2",
