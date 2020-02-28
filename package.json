@@ -36,7 +36,7 @@
   },
   "devDependencies": {
     "ts-node": "8.6.2",
-    "typescript": "3.8.2"
+    "typescript": "3.8.3"
   },
   "private": true,
   "snyk": true
