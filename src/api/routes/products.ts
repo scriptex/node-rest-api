@@ -43,7 +43,7 @@ const fileFilter = (
 /**
  * Create the file uploader
  */
-const upload: multer.Instance = multer({
+const upload: any = multer({
 	storage,
 	fileFilter,
 	limits: {
