@@ -23,7 +23,7 @@
     "@types/mongodb": "3.5.8",
     "@types/mongoose": "5.7.12",
     "@types/multer": "1.4.3",
-    "@types/node": "13.13.0",
+    "@types/node": "13.13.1",
     "bcrypt": "4.0.1",
     "body-parser": "1.19.0",
     "dotenv": "8.2.0",
