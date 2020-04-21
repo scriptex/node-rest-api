@@ -1,43 +1,44 @@
 {
-  "name": "node-rest-api",
-  "version": "0.0.1",
-  "description": "Build a shop REST API using NodeJS, Express and MongoDB",
-  "main": "server.js",
-  "scripts": {
-    "start": "ts-node ./src/server.ts",
-    "build": "tsc",
-    "snyk-protect": "snyk protect",
-    "prepublish": "npm run snyk-protect"
-  },
-  "keywords": [
-    "NodeJS",
-    "REST",
-    "API",
-    "Express",
-    "Mongo"
-  ],
-  "author": "Atanas Atanasov <scriptex.bg@gmail.com> (https://atanas.info)",
-  "license": "MIT",
-  "dependencies": {
-    "@types/express": "4.17.6",
-    "@types/mongodb": "3.5.8",
-    "@types/mongoose": "5.7.12",
-    "@types/multer": "1.4.3",
-    "@types/node": "13.13.1",
-    "bcrypt": "4.0.1",
-    "body-parser": "1.19.0",
-    "dotenv": "8.2.0",
-    "express": "4.17.1",
-    "jsonwebtoken": "8.5.1",
-    "mongoose": "5.9.10",
-    "morgan": "1.10.0",
-    "multer": "1.4.2",
-    "snyk": "1.306.0"
-  },
-  "devDependencies": {
-    "ts-node": "8.9.0",
-    "typescript": "3.8.3"
-  },
-  "private": true,
-  "snyk": true
+	"name": "node-rest-api",
+	"version": "0.0.1",
+	"description": "Build a shop REST API using NodeJS, Express and MongoDB",
+	"main": "server.js",
+	"scripts": {
+		"start": "ts-node ./src/server.ts",
+		"build": "tsc",
+		"snyk-protect": "snyk protect",
+		"prepublish": "npm run snyk-protect"
+	},
+	"keywords": [
+		"NodeJS",
+		"REST",
+		"API",
+		"Express",
+		"Mongo"
+	],
+	"author": "Atanas Atanasov <scriptex.bg@gmail.com> (https://atanas.info)",
+	"license": "MIT",
+	"dependencies": {
+		"bcrypt": "4.0.1",
+		"body-parser": "1.19.0",
+		"dotenv": "8.2.0",
+		"express": "4.17.1",
+		"jsonwebtoken": "8.5.1",
+		"mongoose": "5.9.10",
+		"morgan": "1.10.0",
+		"multer": "1.4.2"
+	},
+	"devDependencies": {
+		"@types/express": "4.17.6",
+		"@types/express-serve-static-core": "4.17.5",
+		"@types/mongodb": "3.5.8",
+		"@types/mongoose": "5.7.12",
+		"@types/multer": "1.4.3",
+		"@types/node": "13.13.1",
+		"snyk": "1.306.0",
+		"ts-node": "8.9.0",
+		"typescript": "3.8.3"
+	},
+	"private": true,
+	"snyk": true
 }
