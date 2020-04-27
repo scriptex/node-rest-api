@@ -35,7 +35,7 @@
 		"@types/mongoose": "5.7.14",
 		"@types/multer": "1.4.3",
 		"@types/node": "13.13.4",
-		"snyk": "1.311.0",
+		"snyk": "1.313.1",
 		"ts-node": "8.9.1",
 		"typescript": "3.8.3"
 	},
