@@ -34,7 +34,7 @@
 		"@types/multer": "1.4.3",
 		"@types/node": "13.13.9",
 		"ts-node": "8.10.2",
-		"typescript": "3.9.3"
+		"typescript": "3.9.5"
 	},
 	"private": true,
 	"snyk": true
