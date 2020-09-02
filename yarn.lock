@@ -24,10 +24,19 @@
   dependencies:
     "@types/node" "*"
 
-"@types/express-serve-static-core@*", "@types/express-serve-static-core@4.17.10":
+"@types/express-serve-static-core@*":
   version "4.17.10"
   resolved "https://registry.yarnpkg.com/@types/express-serve-static-core/-/express-serve-static-core-4.17.10.tgz#2b6a49f28f7aaa3c875338c65c41ef55cd8ae62a"
   integrity sha512-hkM+0ydGOwKRuxcDSjFas/zpC6htqcIcYG5gdPOP1bAhszBi+eB2PlMfUUXkI0EQSG1Xbgn7IZ+yD6GVYsqB2Q==
+  dependencies:
+    "@types/node" "*"
+    "@types/qs" "*"
+    "@types/range-parser" "*"
+
+"@types/express-serve-static-core@4.17.12":
+  version "4.17.12"
+  resolved "https://registry.yarnpkg.com/@types/express-serve-static-core/-/express-serve-static-core-4.17.12.tgz#9a487da757425e4f267e7d1c5720226af7f89591"
+  integrity sha512-EaEdY+Dty1jEU7U6J4CUWwxL+hyEGMkO5jan5gplfegUgCUsIUWqXxqw47uGjimeT4Qgkz/XUfwoau08+fgvKA==
   dependencies:
     "@types/node" "*"
     "@types/qs" "*"
