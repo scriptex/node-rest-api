@@ -30,7 +30,7 @@
 		"@types/express": "4.17.8",
 		"@types/express-serve-static-core": "4.17.13",
 		"@types/mongodb": "3.5.32",
-		"@types/mongoose": "5.7.36",
+		"@types/mongoose": "5.7.37",
 		"@types/multer": "1.4.4",
 		"@types/node": "14.14.6",
 		"ts-node": "9.0.0",
