@@ -33,10 +33,10 @@
     "@types/qs" "*"
     "@types/range-parser" "*"
 
-"@types/express-serve-static-core@4.17.14":
-  version "4.17.14"
-  resolved "https://registry.yarnpkg.com/@types/express-serve-static-core/-/express-serve-static-core-4.17.14.tgz#cabf91debeeb3cb04b798e2cff908864e89b6106"
-  integrity sha512-uFTLwu94TfUFMToXNgRZikwPuZdOtDgs3syBtAIr/OXorL1kJqUJT9qCLnRZ5KBOWfZQikQ2xKgR2tnDj1OgDA==
+"@types/express-serve-static-core@4.17.15":
+  version "4.17.15"
+  resolved "https://registry.yarnpkg.com/@types/express-serve-static-core/-/express-serve-static-core-4.17.15.tgz#7c3d37829a991da9a507c1efd44d97532e8909e3"
+  integrity sha512-pb71P0BrBAx7cQE+/7QnA1HTQUkdBKMlkPY7lHUMn0YvPJkL2UA+KW3BdWQ309IT+i9En/qm45ZxpjIcpgEhNQ==
   dependencies:
     "@types/node" "*"
     "@types/qs" "*"
