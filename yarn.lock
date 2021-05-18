@@ -104,10 +104,10 @@
     "@types/bson" "*"
     "@types/node" "*"
 
-"@types/mongodb@3.6.12":
-  version "3.6.12"
-  resolved "https://registry.yarnpkg.com/@types/mongodb/-/mongodb-3.6.12.tgz#727960d34f35054d2f2ce68909e16094f742d935"
-  integrity sha512-49aEzQD5VdHPxyd5dRyQdqEveAg9LanwrH8RQipnMuulwzKmODXIZRp0umtxi1eBUfEusRkoy8AVOMr+kVuFog==
+"@types/mongodb@3.6.13":
+  version "3.6.13"
+  resolved "https://registry.yarnpkg.com/@types/mongodb/-/mongodb-3.6.13.tgz#bb530d09878c14df4f6d18abbadae244dc419159"
+  integrity sha512-N/e2+oVqDWIiKos+5vsx3Oj8VtgzyplpV9N8tLMM2g/xrK30doWYSYW7fwHSaHQdX+hrUlPxZ775p4KRnhIPyA==
   dependencies:
     "@types/bson" "*"
     "@types/node" "*"
