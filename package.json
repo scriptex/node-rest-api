@@ -27,7 +27,7 @@
 		"multer": "1.4.2"
 	},
 	"devDependencies": {
-		"@types/express": "4.17.11",
+		"@types/express": "4.17.12",
 		"@types/express-serve-static-core": "4.17.19",
 		"@types/mongodb": "3.6.16",
 		"@types/mongoose": "5.10.5",
