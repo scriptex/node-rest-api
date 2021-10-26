@@ -1,6 +1,6 @@
 declare function require(name: string): any;
 
-const dotenv: any = require('dotenv');
+const dotenv = require('dotenv');
 
 dotenv.config();
 

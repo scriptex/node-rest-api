@@ -57,7 +57,7 @@ export const create = ({ body }, res) => {
 			}
 
 			const order = new Order({
-				_id: mongoose.Types.ObjectId(),
+				_id: new mongoose.Types.ObjectId(),
 				quantity: quantity,
 				product: productId
 			});

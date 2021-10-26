@@ -1,5 +1,5 @@
 /**
- * External dependenices
+ * External dependencies
  */
 import { verify } from 'jsonwebtoken';
 

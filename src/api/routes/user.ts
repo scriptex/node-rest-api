@@ -27,6 +27,6 @@ router.post('/signup', signUp);
 router.delete('/:userId', checkAuth, remove);
 
 /**
- * Export the configuratiom
+ * Export the configuration
  */
 export default router;

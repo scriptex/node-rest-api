@@ -6,6 +6,7 @@ import * as mongoose from 'mongoose';
 /**
  * Email regex
  */
+// prettier-ignore
 const emailRe: RegExp = /[a-z0-9!#$%&'*+/=?^_`{|}~-]+(?:\.[a-z0-9!#$%&'*+/=?^_`{|}~-]+)*@(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])?/;
 
 /**
