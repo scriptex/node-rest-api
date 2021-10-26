@@ -77,6 +77,6 @@ router.patch('/:productId', checkAuth, update);
 router.delete('/:productId', checkAuth, remove);
 
 /**
- * Export the configuratiom
+ * Export the configuration
  */
 export default router;

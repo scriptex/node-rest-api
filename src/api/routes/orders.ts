@@ -32,6 +32,6 @@ router.get('/:orderId', checkAuth, get);
 router.delete('/:orderId', checkAuth, remove);
 
 /**
- * Export the configuratiom
+ * Export the configuration
  */
 export default router;

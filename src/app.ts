@@ -16,7 +16,7 @@ import productRoutes from './api/routes/products';
 import { ATLAS_URL } from './settings';
 
 /**
- * Create the applicatiom
+ * Create the application
  */
 const app: express.Application = express();
 
@@ -27,9 +27,7 @@ interface ErrorWithStatus extends Error {
 /**
  * Connect to the database
  */
-mongoose.connect(ATLAS_URL, {
-	useNewUrlParser: true
-});
+mongoose.connect(ATLAS_URL);
 
 /**
  * Add middlewares
