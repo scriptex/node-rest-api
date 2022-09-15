@@ -27,7 +27,7 @@ interface ErrorWithStatus extends Error {
 /**
  * Connect to the database
  */
-mongoose.connect(ATLAS_URL);
+mongoose.connect(ATLAS_URL || '');
 
 /**
  * Add middlewares
@@ -51,7 +51,7 @@ app.use((req: express.Request, res: express.Response, next: express.NextFunction
 		return res.status(200).json({});
 	}
 
-	next();
+	return next();
 });
 
 /**
