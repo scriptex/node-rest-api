@@ -106,7 +106,7 @@ export const login = ({ body }, res) => {
  * Remove the user
  */
 export const remove = (req, res) => {
-	User.remove({ _id: req.params.userId })
+	User.findByIdAndRemove({ _id: req.params.userId })
 		.exec()
 		.then(result => {
 			res.status(200).json({

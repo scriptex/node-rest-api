@@ -114,7 +114,7 @@ export const update = (req, res) => {
 		$set[ops.propName] = ops.value;
 	}
 
-	Product.update({ _id }, { $set })
+	Product.updateOne({ _id }, { $set })
 		.exec()
 		.then(_ => {
 			res.status(200).json({
@@ -136,7 +136,7 @@ export const update = (req, res) => {
 export const remove = (req, res) => {
 	const _id = req.params.productId;
 
-	Product.remove({ _id })
+	Product.findOneAndRemove({ _id })
 		.exec()
 		.then(_ => {
 			res.status(200).json({
