@@ -127,10 +127,10 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-18.14.4.tgz#0e64ec0b35a772e1e3d849f9a0ff61782d0cb647"
   integrity sha512-VhCw7I7qO2X49+jaKcAUwi3rR+hbxT5VcYF493+Z5kMLI0DL568b7JI4IDJaxWFH0D/xwmGJNoXisyX+w7GH/g==
 
-"@types/node@18.15.7":
-  version "18.15.7"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.15.7.tgz#33514fca9bdf136f77027358850c0fb9cd93c669"
-  integrity sha512-LFmUbFunqmBn26wJZgZPYZPrDR1RwGOu2v79Mgcka1ndO6V0/cwjivPTc4yoK6n9kmw4/ls1r8cLrvh2iMibFA==
+"@types/node@18.15.8":
+  version "18.15.8"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.15.8.tgz#222383320e71f9a1397d25c416e9c62d347758e0"
+  integrity sha512-kzGNJZ57XEH7RdckxZ7wfRjB9hgZABF+NLgR1B2zogUvV0gmK0/60VYA4yb4oKZckPiiJlmmfpdqTfCN0VRX+Q==
 
 "@types/qs@*":
   version "6.9.7"
