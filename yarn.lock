@@ -860,10 +860,10 @@ mongoose@*:
     ms "2.1.3"
     sift "16.0.1"
 
-mongoose@7.1.1:
-  version "7.1.1"
-  resolved "https://registry.yarnpkg.com/mongoose/-/mongoose-7.1.1.tgz#a0e17be54754dd8801cb3696585b949399550aa9"
-  integrity sha512-AIxaWwGY+td7QOMk4NgK6fbRuGovFyDzv65nU1uj1DsUh3lpjfP3iFYHSR+sUKrs7nbp19ksLlRXkmInBteSCA==
+mongoose@7.1.2:
+  version "7.1.2"
+  resolved "https://registry.yarnpkg.com/mongoose/-/mongoose-7.1.2.tgz#3ef05c82d8aaddf9d2a3f5f39f850c9800487fac"
+  integrity sha512-89+rFzYphsOCdIDam03ryECeOy4bFKvZqnu4NDdUduoOt2ip0/otIqVBBrjQ1Owz1xza6zy4VTifxBG/jNaJNQ==
   dependencies:
     bson "^5.2.0"
     kareem "2.5.1"
