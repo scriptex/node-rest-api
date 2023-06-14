@@ -41,7 +41,7 @@
 		"@types/mongodb": "4.0.7",
 		"@types/mongoose": "5.11.97",
 		"@types/multer": "1.4.7",
-		"@types/node": "18.16.16",
+		"@types/node": "18.16.18",
 		"ts-node": "10.9.1",
 		"typescript": "5.1.3"
 	},
