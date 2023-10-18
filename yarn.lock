@@ -84,10 +84,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/express-serve-static-core@4.17.37":
-  version "4.17.37"
-  resolved "https://registry.yarnpkg.com/@types/express-serve-static-core/-/express-serve-static-core-4.17.37.tgz#7e4b7b59da9142138a2aaa7621f5abedce8c7320"
-  integrity sha512-ZohaCYTgGFcOP7u6aJOhY9uIZQgZ2vxC2yWoArY+FeDXlqeH66ZVBjgvg+RLVAS/DWNq4Ap9ZXu1+SUQiiWYMg==
+"@types/express-serve-static-core@4.17.38":
+  version "4.17.38"
+  resolved "https://registry.yarnpkg.com/@types/express-serve-static-core/-/express-serve-static-core-4.17.38.tgz#d9c1d3a134a1226d84ec8e40c182f960f969d5a4"
+  integrity sha512-hXOtc0tuDHZPFwwhuBJXPbjemWtXnJjbvuuyNH2Y5Z6in+iXc63c4eXYDc7GGGqHy+iwYqAJMdaItqdnbcBKmg==
   dependencies:
     "@types/node" "*"
     "@types/qs" "*"
