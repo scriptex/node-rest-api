@@ -136,7 +136,7 @@ export const update = (req, res) => {
 export const remove = (req, res) => {
 	const _id = req.params.productId;
 
-	Product.findOneAndRemove({ _id })
+	Product.findOneAndDelete({ _id })
 		.exec()
 		.then(_ => {
 			res.status(200).json({
