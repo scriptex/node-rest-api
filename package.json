@@ -40,7 +40,7 @@
 		"@types/express-serve-static-core": "4.17.41",
 		"@types/mongodb": "4.0.7",
 		"@types/mongoose": "5.11.97",
-		"@types/multer": "1.4.9",
+		"@types/multer": "1.4.10",
 		"@types/node": "20.8.10",
 		"ts-node": "10.9.1",
 		"typescript": "5.2.2"
