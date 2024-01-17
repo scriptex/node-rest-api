@@ -108,7 +108,7 @@ export const get = (req, res) => {
 };
 
 export const remove = (req, res) => {
-	Order.findByIdAndRemove({ _id: req.params.orderId })
+	Order.findByIdAndDelete({ _id: req.params.orderId })
 		.exec()
 		.then(_ => {
 			res.status(200).json({
