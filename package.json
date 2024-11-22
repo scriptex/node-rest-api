@@ -43,7 +43,7 @@
 		"@types/multer": "1.4.12",
 		"@types/node": "22.9.1",
 		"ts-node": "10.9.2",
-		"typescript": "5.6.3"
+		"typescript": "5.7.2"
 	},
 	"private": true
 }
