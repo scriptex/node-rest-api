@@ -39,11 +39,11 @@
 	"devDependencies": {
 		"@types/cors": "2.8.17",
 		"@types/express": "5.0.0",
-		"@types/express-serve-static-core": "5.0.3",
+		"@types/express-serve-static-core": "5.0.5",
 		"@types/multer": "1.4.12",
-		"@types/node": "22.10.5",
+		"@types/node": "22.10.7",
 		"ts-node": "10.9.2",
-		"typescript": "5.7.2"
+		"typescript": "5.7.3"
 	},
 	"private": true
 }
