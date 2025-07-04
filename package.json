@@ -29,7 +29,7 @@
 		"bcrypt": "6.0.0",
 		"body-parser": "2.2.0",
 		"cors": "2.8.5",
-		"dotenv": "16.5.0",
+		"dotenv": "16.6.1",
 		"express": "5.1.0",
 		"jsonwebtoken": "9.0.2",
 		"mongoose": "8.16.1",
@@ -41,7 +41,7 @@
 		"@types/express": "5.0.3",
 		"@types/express-serve-static-core": "5.0.6",
 		"@types/multer": "1.4.13",
-		"@types/node": "22.15.35",
+		"@types/node": "22.16.0",
 		"ts-node": "10.9.2",
 		"typescript": "5.8.3"
 	},
