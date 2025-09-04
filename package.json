@@ -32,7 +32,7 @@
 		"dotenv": "17.2.1",
 		"express": "5.1.0",
 		"jsonwebtoken": "9.0.2",
-		"mongoose": "8.17.2",
+		"mongoose": "8.18.0",
 		"morgan": "1.10.1",
 		"multer": "2.0.2"
 	},
@@ -41,7 +41,7 @@
 		"@types/express": "5.0.3",
 		"@types/express-serve-static-core": "5.0.7",
 		"@types/multer": "2.0.0",
-		"@types/node": "22.17.2",
+		"@types/node": "22.18.0",
 		"ts-node": "10.9.2",
 		"typescript": "5.9.2"
 	},

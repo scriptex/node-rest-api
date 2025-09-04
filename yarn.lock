@@ -139,10 +139,10 @@
   dependencies:
     undici-types "~6.19.2"
 
-"@types/node@22.17.2":
-  version "22.17.2"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-22.17.2.tgz#47a93d6f4b79327da63af727e7c54e8cab8c4d33"
-  integrity sha512-gL6z5N9Jm9mhY+U2KXZpteb+09zyffliRkZyZOHODGATyC5B1Jt/7TzuuiLkFsSUMLbS1OLmlj/E+/3KF4Q/4w==
+"@types/node@22.18.0":
+  version "22.18.0"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-22.18.0.tgz#9e4709be4f104e3568f7dd1c71e2949bf147a47b"
+  integrity sha512-m5ObIqwsUp6BZzyiy4RdZpzWGub9bqLJMvZDD0QMXhxjqMHMENlj+SqF5QxoUwaQNFe+8kz8XM8ZQhqkQPTgMQ==
   dependencies:
     undici-types "~6.21.0"
 
@@ -712,10 +712,10 @@ mongodb@~6.18.0:
     bson "^6.10.4"
     mongodb-connection-string-url "^3.0.0"
 
-mongoose@8.17.2:
-  version "8.17.2"
-  resolved "https://registry.yarnpkg.com/mongoose/-/mongoose-8.17.2.tgz#fa493f5d05817b21f10dc976ad84f1b64211d748"
-  integrity sha512-zp0xzzphKZrr9azDayn0w08gp0jzeZO8EQKvCKNd6c1I/Y9PRmTKj7x+60IWF3+DKmqWq7WZ4ihDEvOFUtWkSA==
+mongoose@8.18.0:
+  version "8.18.0"
+  resolved "https://registry.yarnpkg.com/mongoose/-/mongoose-8.18.0.tgz#0aae0e3fe2e6689a533a5a8d16e84133ef923ee3"
+  integrity sha512-3TixPihQKBdyaYDeJqRjzgb86KbilEH07JmzV8SoSjgoskNTpa6oTBmDxeoF9p8YnWQoz7shnCyPkSV/48y3yw==
   dependencies:
     bson "^6.10.4"
     kareem "2.6.3"
