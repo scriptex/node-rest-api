@@ -41,7 +41,7 @@
 		"@types/express": "5.0.3",
 		"@types/express-serve-static-core": "5.0.7",
 		"@types/multer": "2.0.0",
-		"@types/node": "22.18.0",
+		"@types/node": "22.18.1",
 		"ts-node": "10.9.2",
 		"typescript": "5.9.2"
 	},
