@@ -29,10 +29,10 @@
 		"bcrypt": "6.0.0",
 		"body-parser": "2.2.2",
 		"cors": "2.8.6",
-		"dotenv": "17.2.4",
+		"dotenv": "17.3.1",
 		"express": "5.2.1",
 		"jsonwebtoken": "9.0.3",
-		"mongoose": "9.1.6",
+		"mongoose": "9.2.1",
 		"morgan": "1.10.1",
 		"multer": "2.0.2"
 	},
