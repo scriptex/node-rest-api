@@ -32,16 +32,16 @@
 		"dotenv": "17.4.2",
 		"express": "5.2.1",
 		"jsonwebtoken": "9.0.3",
-		"mongoose": "9.7.3",
+		"mongoose": "9.7.4",
 		"morgan": "1.11.0",
 		"multer": "2.2.0"
 	},
 	"devDependencies": {
 		"@types/cors": "2.8.19",
 		"@types/express": "5.0.6",
-		"@types/express-serve-static-core": "5.1.1",
+		"@types/express-serve-static-core": "5.1.2",
 		"@types/multer": "2.2.0",
-		"@types/node": "24.13.2",
+		"@types/node": "24.13.3",
 		"ts-node": "10.9.2",
 		"typescript": "5.9.3"
 	},
