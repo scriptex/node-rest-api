@@ -737,10 +737,10 @@ mongodb@~7.5:
     bson "^7.2.0"
     mongodb-connection-string-url "^7.0.1"
 
-mongoose@9.9.1:
-  version "9.9.1"
-  resolved "https://registry.yarnpkg.com/mongoose/-/mongoose-9.9.1.tgz#2455ac071de4851d0d7248a3b7f91529a36691a4"
-  integrity sha512-hI00baDVPjV5VfYA3j+oLuPvLfmCQICWot9zJZgkuDMXnWEYhIx9xCPEOt2IC3lDJz6ajsz2bpgO24E+xsP6wg==
+mongoose@9.9.3:
+  version "9.9.3"
+  resolved "https://registry.yarnpkg.com/mongoose/-/mongoose-9.9.3.tgz#666bc52edbc02c5ae2eb66396dddcc713fa29299"
+  integrity sha512-9dQaKct05LNgVkunDzFPZsGGBhinobl3Qc5B5KYJkLNG5lBLgqESUEItl1EUIkVaCwZJGBgTuvJiFAjjIATCiw==
   dependencies:
     "@standard-schema/spec" "^1.1.0"
     kareem "3.3.0"
