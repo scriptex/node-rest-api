@@ -144,10 +144,10 @@
   dependencies:
     undici-types "~6.19.2"
 
-"@types/node@24.13.5":
-  version "24.13.5"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-24.13.5.tgz#b1c34df1c3c47709a2f1790f2eb2d7eba53788f9"
-  integrity sha512-TXyindR+lBr22aJIdMQzCFHPHR6cR4js838mRDCSz5hOKWZvZwsXSSiXDmjRj4iJmgl+sR9O+1mkoVBSMadNug==
+"@types/node@24.13.6":
+  version "24.13.6"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-24.13.6.tgz#30ba2d8aae3c321fd170fe52a915231a67a4875c"
+  integrity sha512-SGrw/h3KPFshy3OE6ZL53LMBG5vGQQ8/gIpiqz/kRZhPJ7HgwCEs8LBuNtWLa8dvGZVpSF7+Bf+c11HUrCb/yg==
   dependencies:
     undici-types "~7.18.0"
 
@@ -367,10 +367,10 @@ diff@^4.0.1:
   resolved "https://registry.yarnpkg.com/diff/-/diff-4.0.2.tgz#60f3aecb89d5fae520c11aa19efc2bb982aade7d"
   integrity sha512-58lmxKSA4BNyLz+HHMUzlOEpg09FV+ev6ZMe3vJihgdxzgcwZ8VoEEPmALCZG9LmqfVoNMMKpttIYTVG6uDY7A==
 
-dotenv@18.0.0:
-  version "18.0.0"
-  resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-18.0.0.tgz#a34cd3dd095fbfd46c282b835e380cd38f13b9e4"
-  integrity sha512-16YSUvsKtKbwrTbESvtTSZzzJUug6jdFdqiBFg9Q6Bk1JY9r0hAtrtTiWxdI9YrsgOTmkjZRdgU0n3LnwGpECw==
+dotenv@18.0.5:
+  version "18.0.5"
+  resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-18.0.5.tgz#4fc2c5cd92cf89cdd72c8aa5b82b5a37c0a9a2bf"
+  integrity sha512-aBrGvt6KhjxbEnatqMWOMidftwsrCiCvqh1yNIGB9QyF0J+VcWkKDMsvYOEm7ZS82oiV+BT1sTOtIlAmUlTpwQ==
 
 dunder-proto@^1.0.1:
   version "1.0.1"
@@ -722,10 +722,10 @@ mongodb@~7.6:
     bson "^7.2.0"
     mongodb-connection-string-url "^7.0.1"
 
-mongoose@9.10.1:
-  version "9.10.1"
-  resolved "https://registry.yarnpkg.com/mongoose/-/mongoose-9.10.1.tgz#b13f064dac552c4f2065f398665ba22f24361431"
-  integrity sha512-rRIEGbM3rUgXAY554CEsgp+IxImo6D3ILUr3SJDnC2PLPNTcNe2xxYvazSLtvvTjv3A4MgqvsxCj3ViF4mHUUQ==
+mongoose@9.10.4:
+  version "9.10.4"
+  resolved "https://registry.yarnpkg.com/mongoose/-/mongoose-9.10.4.tgz#737253ad8cd2c3d6315b867725483c587989324d"
+  integrity sha512-p1hx2MSD4B+4shFTpRcd/uTwD6DtZeDJ+YxM9ja8/VBDH7vqqLynwGLA6rWa/tD7voOBoGqQR1wM3+/LcUoEfA==
   dependencies:
     "@standard-schema/spec" "^1.1.0"
     kareem "3.4.0"
