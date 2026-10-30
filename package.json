@@ -34,7 +34,7 @@
 		"jsonwebtoken": "9.0.3",
 		"mongoose": "9.11.2",
 		"morgan": "1.12.1",
-		"multer": "2.4.0"
+		"multer": "2.5.0"
 	},
 	"devDependencies": {
 		"@types/cors": "2.8.19",
