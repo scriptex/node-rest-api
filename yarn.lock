@@ -380,10 +380,10 @@ diff@^4.0.1:
   resolved "https://registry.yarnpkg.com/diff/-/diff-4.0.2.tgz#60f3aecb89d5fae520c11aa19efc2bb982aade7d"
   integrity sha512-58lmxKSA4BNyLz+HHMUzlOEpg09FV+ev6ZMe3vJihgdxzgcwZ8VoEEPmALCZG9LmqfVoNMMKpttIYTVG6uDY7A==
 
-dotenv@18.0.8:
-  version "18.0.8"
-  resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-18.0.8.tgz#e51b1e4424d73df5e17802954dc503aaa565bd1a"
-  integrity sha512-2KDeoFoK/zRtcnbunCDlLG5VWVMcyqeQc6iK65o231nfNAcuGrKoqUQfJFUtBI+QlShk5HKIHxwebBtUl3rEfA==
+dotenv@18.0.9:
+  version "18.0.9"
+  resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-18.0.9.tgz#5c565760ce7e6fb69f9477ebcd1a3b64c766f9c8"
+  integrity sha512-3fVOW4cB02R066PUSwn8O4TJyz9NckQl7F81blIbaq9jKBm2tSmOKky7ZHIXzGvkVPXCSn6jkpziBPZdGFs8Tw==
 
 dunder-proto@^1.0.1:
   version "1.0.1"
@@ -742,16 +742,16 @@ mongodb@~7.7:
     bson "^7.3.2"
     mongodb-connection-string-url "^7.0.2"
 
-mongoose@9.11.2:
-  version "9.11.2"
-  resolved "https://registry.yarnpkg.com/mongoose/-/mongoose-9.11.2.tgz#4df6a5cf6ea6a571433cde3f9ba8bd4b1bb2dfd3"
-  integrity sha512-hFkl/2dccpD58coRAya3a/ht8ooAx9YPLzBfxVX9bEsgcrjsNkvuWQe8gplGfDdmzpw2RfFX1IB/G8PiFwyvwg==
+mongoose@9.11.4:
+  version "9.11.4"
+  resolved "https://registry.yarnpkg.com/mongoose/-/mongoose-9.11.4.tgz#a15599b2ecb3d6885de9e0341f8dddc5513f9f7e"
+  integrity sha512-+xME0fduXl1sWF+NZpJHZaNcwQSt+X2vbJ/h7GRSZ/ltLycAkGZSEABhzic0+q3IMF66KqF0viEE5+frchKCAQ==
   dependencies:
     "@standard-schema/spec" "^1.1.0"
     kareem "3.4.1"
     mongodb "~7.7"
     mpath "0.9.0"
-    mquery "6.0.0"
+    mquery "6.0.1"
     ms "2.1.3"
     sift "17.1.3"
 
@@ -771,10 +771,10 @@ mpath@0.9.0:
   resolved "https://registry.yarnpkg.com/mpath/-/mpath-0.9.0.tgz#0c122fe107846e31fc58c75b09c35514b3871904"
   integrity sha512-ikJRQTk8hw5DEoFVxHG1Gn9T/xcjtdnOKIU1JTmGjZZlg9LST2mBLmcX3/ICIbgJydT2GOc15RnNy5mHmzfSew==
 
-mquery@6.0.0:
-  version "6.0.0"
-  resolved "https://registry.yarnpkg.com/mquery/-/mquery-6.0.0.tgz#ef6d744619ff13368c1b137d09a7adc5530fce9e"
-  integrity sha512-b2KQNsmgtkscfeDgkYMcWGn9vZI9YoXh802VDEwE6qc50zxBFQ0Oo8ROkawbPAsXCY1/Z1yp0MagqsZStPWJjw==
+mquery@6.0.1:
+  version "6.0.1"
+  resolved "https://registry.yarnpkg.com/mquery/-/mquery-6.0.1.tgz#4b98f9e19fc7b226c89bc06e5e11f254c16a4877"
+  integrity sha512-/Nijmq3JcpHwDM+5CwBp5yEl6fUa6jLsIhPsoQywlGXU/ZrKIvSpBzfaGnW9BLqcne/CoUwd1ch7MRqptDgFTA==
 
 ms@2.0.0:
   version "2.0.0"
