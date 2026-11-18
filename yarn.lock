@@ -380,10 +380,10 @@ diff@^4.0.1:
   resolved "https://registry.yarnpkg.com/diff/-/diff-4.0.2.tgz#60f3aecb89d5fae520c11aa19efc2bb982aade7d"
   integrity sha512-58lmxKSA4BNyLz+HHMUzlOEpg09FV+ev6ZMe3vJihgdxzgcwZ8VoEEPmALCZG9LmqfVoNMMKpttIYTVG6uDY7A==
 
-dotenv@18.0.9:
-  version "18.0.9"
-  resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-18.0.9.tgz#5c565760ce7e6fb69f9477ebcd1a3b64c766f9c8"
-  integrity sha512-3fVOW4cB02R066PUSwn8O4TJyz9NckQl7F81blIbaq9jKBm2tSmOKky7ZHIXzGvkVPXCSn6jkpziBPZdGFs8Tw==
+dotenv@18.0.10:
+  version "18.0.10"
+  resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-18.0.10.tgz#4171e67ba539a3d1513d7cbc51b8124e60714d28"
+  integrity sha512-89FAA1xchzK2mxVWdr5F/0rldwiueXs6zJM86rO66EzekR1iBdiXRthyG+m5GvkJaFH3C2LESzamTkgndmLT2A==
 
 dunder-proto@^1.0.1:
   version "1.0.1"
@@ -742,10 +742,10 @@ mongodb@~7.8:
     bson "^7.3.2"
     mongodb-connection-string-url "^7.0.2"
 
-mongoose@9.12.0:
-  version "9.12.0"
-  resolved "https://registry.yarnpkg.com/mongoose/-/mongoose-9.12.0.tgz#4cb1bafb245a2ce4ebd1a871ca1ff0a5e4c2d2c1"
-  integrity sha512-nM8yl6hPcXuT+LbJYV7aFk1PmBF+0xR159pHHlaDzrovT89yQ5k+ty38Vcnd5elLYixndveBFtHJaWS9b80cKg==
+mongoose@9.12.2:
+  version "9.12.2"
+  resolved "https://registry.yarnpkg.com/mongoose/-/mongoose-9.12.2.tgz#3c943d08214de797d63e3cb5772cb24755dbe27d"
+  integrity sha512-SoWBAJGaC7UJ8SCmsVd34kDmiq/lvyeENVTHTjR1ez+vyfY/cu/K5/uCgIoXA6pYV5yMAHM72sWVe6XuYYEqeA==
   dependencies:
     "@standard-schema/spec" "^1.1.0"
     kareem "3.4.1"
